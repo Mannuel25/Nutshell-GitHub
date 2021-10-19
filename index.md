@@ -170,7 +170,7 @@ This project was built to provide resources for developers to find all they need
 
 # Contributing
 
-Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](CONTRIBUTING.md) to get started.
+Feel free to add more resources to this repo by either creating an issue or making a Pull Request. See our [contribution guidelines](https://github.com/Mannuel25/Nutshell-GitHub/blob/main/CONTRIBUTING.md) to get started.
 
 ## License
 
