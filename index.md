@@ -50,7 +50,7 @@ This project was built to provide resources for developers to find all they need
 - [Git and GitHub Tutorials](https://www.youtube.com/watch?v=r50BKIFGCI0&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 - [Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
-- [Git and GitHub Tutorial For Beginners | Full Course](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+- [Git and GitHub Tutorial For Beginners Full Course](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Git Tutorial - Telusko](https://www.youtube.com/watch?v=OdbBmvfThJY&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC)
 
@@ -81,7 +81,7 @@ This project was built to provide resources for developers to find all they need
 - [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
 - [My approach to using Git, without the headaches](https://medium.com/hackernoon/my-approach-to-using-git-without-the-headaches-6926df5af0c7?source=search_post)
 - [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
-- [git — Rebase vs Merge](https://medium.datadriveninvestor.com/git-rebase-vs-merge-cc5199edd77c?source=search_post)
+- [Git — Rebase vs Merge](https://medium.datadriveninvestor.com/git-rebase-vs-merge-cc5199edd77c?source=search_post)
 - [18 Git Commands I Learned During My First Year as a Software Developer](https://towardsdatascience.com/git-commands-cheat-sheet-software-developer-54f6aedc1c46?source=search_post)
 - [How to remove local untracked files from the current Git branch](https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1?source=search_post)
 - [Using Git commands that will make you look like a senior developer](https://levelup.gitconnected.com/using-git-commands-that-will-make-you-look-like-a-senior-developer-14247f4aca3b?source=search_post)
