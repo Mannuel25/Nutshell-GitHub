@@ -14,3 +14,11 @@ This project was built to provide resources for developers to find all they need
 * [Git/GitHub Repositories](#gitgithub-repositories) - Instructions on how to use Git or GitHub can be found in these repositories.
 * [Git/GitHub Articles](#gitgithub-articles) - The basics and fundamentals of Git and GitHub are explained in these articles.
 * [Git/GitHub Books](#gitgithub-books) - Books to help you learn how to utilize GitHub and master the Git version control system.
+
+# Git/GitHub Courses/Videos
+
+- [Introduction to Git and GitHub - Offered By Google](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=11-GoogleITwithPython-ROW&campaignid=9733806670&adgroupid=119184274733&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507191775308&hide_mobile_promo&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs8cqMR-9WYlilq7CrcFTkE7wQT1K7qv1XDpTa5HtjEJckeoyiU6cpRoCyCgQAvD_BwE)
+- [Git & GitHub Crash Course For Beginners - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git and GitHub Crash Course By Google Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
