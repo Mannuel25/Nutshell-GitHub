@@ -170,6 +170,9 @@ This project was built to provide resources for developers to find all they need
 - [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - This book explains how to use Git for project version control in a distributed environment while working on web-based and non web-based applications development.
 - [Distributed Version Control with Git: Mastering the Git command line - Third Edition
 ](https://www.pdfdrive.com/distributed-version-control-with-git-mastering-the-git-command-line-third-edition-e157843022.html) - This book explains the usage of the Git version control system via the command line.
+- [Professional Git](https://www.pdfdrive.com/professional-git-e176044429.html) - This book is organized as a series of chapters that teach you Git from the ground up, teaching you what you need to know and building on to become proficient before adding new concepts.
+- [Git Notes for Professionals](https://goalkicker.com/GitBook) - This book explains the fundamentals and concepts of Git using practical examples.
+- [Git Pocket Guide](https://books.google.com.ng/books?id=tPv2vX2czJoC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) - The primary goal of this book is to provide a concise, readable introduction to Git for new users, as well as a reference to common commands and procedures that will be useful even after you've gotten some git under your belt. 
 
 # Contributing
 
