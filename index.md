@@ -167,6 +167,9 @@ This project was built to provide resources for developers to find all they need
 - [Pro Git](https://www.pdfdrive.com/pro-git-everything-you-need-to-know-about-git-e176073017.html) -  Everything You Need to Know About Git
 - [Version Control with Git](https://www.pdfdrive.com/version-control-with-git-e18853221.html) - It gives you a good, hands-on foundation for learning how to use Git as a version control system.
 - [Learn Git in a Month of Lunches](https://www.pdfdrive.com/learn-git-in-a-month-of-lunches-e34369237.html) - Introduces you to the fundamentals of git and how to make the most of them.
+- [Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide](https://www.pdfdrive.com/git-learn-version-control-with-git-a-step-by-step-ultimate-beginners-guide-e158237381.html) - This book explains how to use Git for project version control in a distributed environment while working on web-based and non web-based applications development.
+- [Distributed Version Control with Git: Mastering the Git command line - Third Edition
+](https://www.pdfdrive.com/distributed-version-control-with-git-mastering-the-git-command-line-third-edition-e157843022.html) - This book explains the usage of the Git version control system via the command line.
 
 # Contributing
 
